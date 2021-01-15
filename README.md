@@ -11,3 +11,7 @@ https://es.reactjs.org/docs/getting-started.html
 FAKER:
 
 https://www.npmjs.com/package/faker
+
+SEMANTIC UI
+
+https://semantic-ui.com/introduction/getting-started.html
